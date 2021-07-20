@@ -1,4 +1,4 @@
-## Juego de momeria construido con javascript
+## Juego de memoria con javascript
 
 - HTML
 - SASS
